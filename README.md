@@ -36,8 +36,9 @@
  ## Model Training
 -	We split the dataset into a training and testing section(testing size=30% of the actual data).
 
-## Model Evaluation
+## Result
 - Accuracy achieved: 0.77
+- The **classification_report** function from sklearn.metrics provides a detailed summary of the model's performance by breaking it down into key evaluation metrics for each class (positive, negative, neutral in your case).
 
 
 
